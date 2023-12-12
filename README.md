@@ -1,4 +1,4 @@
-<h1 align="center">Hey!, I'm Luis diaz</h1>
+<h1 align="center">Hey!, I'm Luis herrera</h1>
 <h3 align="center">Learning C lenguage :)</h3>
 
 </p>
