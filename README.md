@@ -1,5 +1,5 @@
 <h1 align="center">Hey!, I'm Luis Herrera</h1>
-<h3 align="center">"Learning Python & Wed development"</h3>
+<h3 align="center">"Learning Python & Web development"</h3>
 
 <p align="left"
 </p
